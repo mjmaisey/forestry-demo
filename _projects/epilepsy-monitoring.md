@@ -1,5 +1,5 @@
 ---
-title: Portable EEG Montoring Device
+title: Portable EEG Monitoring Device
 date: 2016-04-20 00:00:00 +0000
 categories: []
 description: A portable device for epileptic patients.
