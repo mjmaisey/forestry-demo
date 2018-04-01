@@ -1,0 +1,23 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: retailer_name
+  label: Retailer Name
+  config:
+    required: true
+- type: datetime
+  name: joined_date
+  label: Joined date
+  config:
+    date_format: DD/MM/YYYY
+    required: true
+  default: Invalid date
+- type: file
+  name: retailer_image
+  label: Retailer image
+- type: textarea
+  name: retailer_quote
+  label: Retailer quote
+  config:
+    required: true
